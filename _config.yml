@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Hugo Contant"
-  avatar           : ""
+  avatar           : "Hugo Contant"
   bio              : "UnderGrad Student | Machine Learning | CMU"
   location         : "Pittsburgh, PA"
   employer         :
